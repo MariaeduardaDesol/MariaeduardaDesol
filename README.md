@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! Meu nome é Maria Eduarda De Sousa Oliveira, estou cursando o segundo ano do ensino médio juntamente com o técnico de desenvolvimento de sistemas.</h2>
 
 ###
 
